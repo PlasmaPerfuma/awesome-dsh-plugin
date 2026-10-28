@@ -1,0 +1,6 @@
+url: https://github.com/PlasmaPerfuma/dsh-notify-card
+name: PlasmaPerfuma/dsh-notify-card
+category: notify
+description:
+  en: Floating approval window for DeepSeek Harness that appears when you leave the app and hands the request back to the native card when you return.
+  zh: DeepSeek Harness 的独立审批浮窗：离开应用时弹出，切回时把请求交还原生卡片。
